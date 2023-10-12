@@ -26,7 +26,7 @@ I am passionate about Open Source, UI/UX Design, and MERN Stack Web Development.
 ---
 ## Let's Connect
 <p>
-  <a href="[www.linkedin.com/in/saher-siddiqui-400886217](https://www.linkedin.com/in/saher-siddiqui-400886217/)">
+  <a href="https://www.linkedin.com/in/saher-siddiqui-400886217/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://saher.hashnode.dev/">
